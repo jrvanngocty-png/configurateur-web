@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nom": "Ordinateur Portable",
+    "prix": 999,
+    "description": "Laptop haute performance 15 pouces",
+    "categorie": "Informatique"
+  },
+  {
+    "id": 2,
+    "nom": "Smartphone Pro",
+    "prix": 699,
+    "description": "Smartphone dernier cri avec appareil photo 108MP",
+    "categorie": "Telephonie"
+  },
+  {
+    "id": 3,
+    "nom": "Casque Audio",
+    "prix": 199,
+    "description": "Casque sans fil avec reduction de bruit active",
+    "categorie": "Audio"
+  },
+  {
+    "id": 4,
+    "nom": "Tablette Graphique",
+    "prix": 349,
+    "description": "Tablette pour dessin numerique professionnel",
+    "categorie": "Creativite"
+  }
+]
